@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|solutionrelative:inventorysystem.infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964AA2F-2016-4112-8467-2CA2F09338A0}|InventorySystem.Api\\InventorySystem.Api.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964AA2F-2016-4112-8467-2CA2F09338A0}|InventorySystem.Api\\InventorySystem.Api.csproj|solutionrelative:inventorysystem.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964AA2F-2016-4112-8467-2CA2F09338A0}|InventorySystem.Api\\InventorySystem.Api.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3964AA2F-2016-4112-8467-2CA2F09338A0}|InventorySystem.Api\\InventorySystem.Api.csproj|solutionrelative:inventorysystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|solutionrelative:inventorysystem.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC691856-1A39-4A1C-8BE4-B8D88A513CDB}|InventorySystem.Domain\\InventorySystem.Domain.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC691856-1A39-4A1C-8BE4-B8D88A513CDB}|InventorySystem.Domain\\InventorySystem.Domain.csproj|solutionrelative:inventorysystem.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D18FD1A-18A7-4DC5-ACE0-3537564BDFF5}|InventorySystem.Application\\InventorySystem.Application.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D18FD1A-18A7-4DC5-ACE0-3537564BDFF5}|InventorySystem.Application\\InventorySystem.Application.csproj|solutionrelative:inventorysystem.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964AA2F-2016-4112-8467-2CA2F09338A0}|InventorySystem.Api\\InventorySystem.Api.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3964AA2F-2016-4112-8467-2CA2F09338A0}|InventorySystem.Api\\InventorySystem.Api.csproj|solutionrelative:inventorysystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.infrastructure\\inventorysystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|solutionrelative:inventorysystem.infrastructure\\inventorysystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.infrastructure\\migrations\\20241216204820_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|solutionrelative:inventorysystem.infrastructure\\migrations\\20241216204820_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C42D2E2-2BB4-492F-A278-636449FAE1F6}|InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj|solutionrelative:inventorysystem.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3964AA2F-2016-4112-8467-2CA2F09338A0}|InventorySystem.Api\\InventorySystem.Api.csproj|c:\\users\\leonardo\\desktop\\prueba t\u00E9cnica\\be\\inventorysystem-backend-main\\inventorysystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3964AA2F-2016-4112-8467-2CA2F09338A0}|InventorySystem.Api\\InventorySystem.Api.csproj|solutionrelative:inventorysystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "InventorySystem.Api\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:43:59.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "InventorySystem.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:05:06.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "InventorySystem.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAWwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:40:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Infrastructure\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\Services\\ProductService.cs*",
+              "RelativeToolTip": "InventorySystem.Infrastructure\\Services\\ProductService.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:40:40.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241216204820_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\Migrations\\20241216204820_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Infrastructure\\Migrations\\20241216204820_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\Migrations\\20241216204820_InitialCreate.cs",
+              "RelativeToolTip": "InventorySystem.Infrastructure\\Migrations\\20241216204820_InitialCreate.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwBcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:40:33.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Api\\Program.cs",
+              "RelativeToolTip": "InventorySystem.Api\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:17:21.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "InventorySystem.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:40:18.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "InventorySystem.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Api\\appsettings.json",
+              "RelativeToolTip": "InventorySystem.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T21:12:33.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventorySystem.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj",
+              "RelativeToolTip": "InventorySystem.Infrastructure\\InventorySystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T12:51:40.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "InventorySystem.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:51:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InventorySystem.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Leonardo\\Desktop\\Prueba t\u00E9cnica\\BE\\InventorySystem-Backend-main\\InventorySystem.Api\\appsettings.Development.json",
+              "RelativeToolTip": "InventorySystem.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T21:12:53.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
